@@ -71,7 +71,7 @@ http://localhost:5173
 
 ## Variáveis de Ambiente
 
-Você pode verificar o repositório da API do labs [aqui](https://github.com/SouJunior-Labs/labs-api) e seguir as instruções para rodar a API localmente.
+Você pode verificar o repositório da API do labs [aqui](https://github.com/SouJunior-Labs/labs-api-2) e seguir as instruções para rodar a API localmente.
 
 Após configurar a API, você precisará configurar as variáveis de ambiente do projeto para que a aplicação possa se comunicar com a API.
 
